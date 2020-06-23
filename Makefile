@@ -9,7 +9,7 @@ NAME	= groundhog
 
 RM	= rm -f
 
-SRCS	= script/script.sh
+SRCS	= script.sh
 
 all: $(NAME)
 
