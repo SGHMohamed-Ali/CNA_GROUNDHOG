@@ -1,2 +1,2 @@
 #!/bin/sh
-python3 src/main2.py "$1"
+python3 main2.py "$1"
